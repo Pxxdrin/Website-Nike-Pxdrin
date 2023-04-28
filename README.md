@@ -1,2 +1,2 @@
-# Website-Nike-Pxdrin
-Depois de alguns sites criados apenas como aprendizado, finalmente terminei o front-end de um. Isso é só o ocomeço!
+Website Nike - Pxdrin!
+Nesse projeto Compreendi melhor a lógica do Css, porém estou em evolução e aprendizagem ainda...
